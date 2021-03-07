@@ -1,0 +1,5 @@
+Tuple:- Tuple is a collection of hetrogenous data type that means a tuple can be stored multiple
+values of different data types like list.
+The Main difference between list and tuple is that list is mutable whereas tuple is immutable
+
+tup1=(10,20,30,40,50)

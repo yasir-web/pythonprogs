@@ -1,0 +1,52 @@
+Types of Inheritence:
+1. Single Inheritence
+2. Hierarchical Inheritence
+3. Multiple Inheritence
+4. Multi-level Inheritence
+5. Hybrid Inheritence
+
+Single Inheritence: In this there is a single base class and single derived class
+Syntax: classA:
+    Varibles and Methods
+classB(A):
+    Varibles and Methods
+
+Hierarchical Inheritence: In this there is a single base class and Multiple derivedc class
+Syntax:
+classA:
+    Varibles and Methods
+ClasB(A):
+    Varibles and Methods
+classC(A):
+     Varibles and Methods
+    
+Multiple Inheritence: In This There are Multiple base class and single derived class
+Syntax:
+classA:
+    Methods and Varibles
+ClasB:
+    Methods and Varibles
+classC(A,B)
+    Varibles and Methods
+
+Multi-level Inheritence: In this
+Syntax:
+class A:
+    Varibles and Methods
+class B(A):
+    Varibles and Methods
+classC(C):
+    Varibles and Methods
+
+Hybrid Inheritence: If you use more than one Inheritence then resultant Inheritence is called Hybrid Inheritence
+Syntax:
+classA:
+    Varibles and Methods
+ClasB(A):
+    Varibles and Methods
+ClassB(A)
+    Varibles and Methods
+Class D:
+    Varibles and Methods
+Class C(B,D):
+    Varibles and Methods

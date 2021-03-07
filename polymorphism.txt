@@ -1,0 +1,7 @@
+polymorphism:The Term Polymorphism means one thing, many forms. In Python there are two types of polymorphism:-
+1. Method Overloading
+2. Method Overriding
+Method Overloading: In Python Programming langusage we can perform many task from the same Method. It is called Method Overloading.
+
+Note:- Method Overloading In Python is different from Java, In Java we create multiple method with same name, But here Parameters are different whereas In Python Programming language 
+we can create only one method and perform multiple tasks from same method

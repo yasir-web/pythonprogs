@@ -1,0 +1,10 @@
+Dictionary:  The dictionary is a collection in python, It stores Elements in Key and Value pair.
+dict1={
+'key':Value
+}
+
+employee={
+'empid':1001,
+'empname':'Yasir Ali Khan',
+'Salary':85000 
+}

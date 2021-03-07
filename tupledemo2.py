@@ -1,0 +1,5 @@
+tup1=(10,20,30,40,50)
+print("Maximum Value",max(tup1))
+print("Minimum Value",min(tup1))
+print("Sum",sum(tup1))
+print("length",len(tup1))

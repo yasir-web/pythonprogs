@@ -1,0 +1,12 @@
+Method Overriding:- The re-writing of base class Method to derived class is called method overriding
+example:-
+class A:
+    def m1(self):
+        #code
+    def m2(self):
+        #code
+class B(A):
+    def m1(self): #Overriding of method
+        #code
+    def m3(self):
+        #code

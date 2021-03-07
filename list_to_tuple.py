@@ -1,0 +1,6 @@
+values = input("Input some comma seprated numbers : ")
+t1 =tuple( values.split(","))
+#t1=tuple(t1)
+#t1 = tuple(list)
+#print('List : ',list)
+print('Tuple : ',t1)

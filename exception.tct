@@ -1,0 +1,11 @@
+Exception: The dictionary meaning of "Exception" is abnormal termination. If Exception is occured the program is terminated abnormally and rest of the code is not executed.
+Exception Handling: Exception Handling is a mechanism to handle exception so that the program execute normally. For exception handling in python we use try, except and finally keyword
+
+Syntax of exception Handling:
+
+try:
+    #code which you want to protect
+except:
+    #code which is used to handle exception
+finally: #Optional
+    #code which you want to execute always

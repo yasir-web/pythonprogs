@@ -1,0 +1,6 @@
+Employee ID=56789
+Employee name=Ali
+Employee Salary=50000
+Employee ID=1001
+Employee name=Yasir 
+Employee Salary=70000
